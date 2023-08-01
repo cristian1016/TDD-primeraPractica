@@ -1,0 +1,15 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "library for operating with arrays of objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch" 
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
